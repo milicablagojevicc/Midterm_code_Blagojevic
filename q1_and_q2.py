@@ -13,5 +13,5 @@ a = a - 3
 print(a)
 
 
-# q2
-print((2+3)*6/2 and 18.0) 
+# Question 2
+print((2+3)*6/2 and 18.0)
